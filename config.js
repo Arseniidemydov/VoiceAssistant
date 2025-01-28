@@ -1,1 +1,0 @@
-window.OPENAI_API_KEY = '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';
